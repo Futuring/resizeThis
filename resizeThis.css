@@ -10,4 +10,5 @@
     border-right: 5px solid transparent;
     border-top: 5px solid black;
     transform: rotate(-45deg);
+    margin-right: -2px;
 }
