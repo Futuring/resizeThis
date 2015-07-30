@@ -1,0 +1,19 @@
+{
+  "name": "resizeThis",
+  "main": ["resizeThis.js", "resizeThis.css"],
+  "version": "1.0.2",
+  "homepage": "https://github.com/Futuring/resizeThis",
+  "authors": [
+    "Jean lucas de Carvalho <jeanlucasdecarvalho@gmail.com>"
+  ],
+  "description": "Ambition-less jQuery plugin for resizable DOM elements.",
+  "moduleType": "globals",
+  "keywords": [
+    "resizeThis",
+    "Futuring"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
